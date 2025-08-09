@@ -62,11 +62,16 @@ make clean
 
 ## Screenshots
 
+**Ringmaster blockchain With Eclipse**
+
 ![WithEclipse](assets/0_with_eclipse.png)
 
-![WithoutEclipse](assets/0_without_eclipse.png)
+**Ringmaster blockchain Without Eclipse**
+
+![WithoutEclipse](assets/0_without_eclipse.png =x250)
 
 ![ResultImg](assets/resultimg.png)
+
 ## Authors
 
 - **Nishant Sharma** - MTech CSE Student at IIT Bombay
