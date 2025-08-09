@@ -1,7 +1,7 @@
 
 # P2P Blockchain Selfish Eclipse Simulator
 
-Discrete Event Simulator to simulate the impact of selfish mining with eclipse and selfish mining without eclipse attacks on the longest chain or canonical chain generated at end of simulation.
+Discrete Event Simulator to simulate the impact of selfish mining with eclipse and selfish mining without eclipse attacks on the longest chain or canonical chain generated at end of simulation. And also how various parameters like timeout timer etc impacts it.
 
 
 ## Features
