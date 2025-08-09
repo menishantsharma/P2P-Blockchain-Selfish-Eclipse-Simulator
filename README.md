@@ -68,7 +68,7 @@ make clean
 
 **Ringmaster blockchain Without Eclipse**
 
-![WithoutEclipse](assets/0_without_eclipse.png =x250)
+<img src="assets/0_without_eclipse.png" alt="assets/0_without_eclipse.png" width="200"/>
 
 ![ResultImg](assets/resultimg.png)
 
